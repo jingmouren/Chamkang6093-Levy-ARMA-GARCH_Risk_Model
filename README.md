@@ -6,7 +6,7 @@
 
 ## Notes
 * <em>_snp_tickers_sectors.csv</em>&nbsp;&nbsp;is found at https://en.wikipedia.org/wiki/List_of_S%26P_500_companies (In this project, last change was on April 21, 2021).
-* In the part of tests, the code about coverage tests is mainly from the library named "vartests" (Link: https://github.com/rafa-rod/vartests), when some minor modifications were made.
+* In the part of tests, the code about coverage tests is mainly from the library named "vartests" ( Link: https://github.com/rafa-rod/vartests ), when some minor modifications were made.
 * In the part of fitting Lévy - ARMA - GARCH model, some lines of the code are omitted due to potential copyright issue, where some of them are from private code of our professor and his assistant. You can try to incorporate NIG and GH distributions into some other open-source ARMA-GARCH code as an alternative if you are interested in this part. Sorry for the incovenience.
 
 ## Main Reference
